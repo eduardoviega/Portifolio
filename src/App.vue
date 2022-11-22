@@ -2,14 +2,11 @@
   <v-app id="home">
     <Header style="position: sticky; top: 0; z-index: 1;"></Header>
     <v-content style="background: #232526;">
-      <v-container style="display: flex; justify-content: center; width: 100%;">
-        <transition name="slide" mode="out-in">
-          <router-view/>
-        </transition>
-      </v-container>
+      <transition name="slide" mode="out-in">
+        <router-view/>
+      </transition>
     </v-content>
-    <Footer style="padding: 20px 15%; display: flex; flex-wrap: wrap; align-items: center; 
-      justify-content: space-between; gap: 2rem; background: #232526; background: linear-gradient(to left, #414345, #232526);"></Footer>
+    <Footer></Footer>
   </v-app>
 </template>
 
