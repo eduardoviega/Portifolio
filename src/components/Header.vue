@@ -34,6 +34,10 @@ export default {
 </script>
 
 <style scoped>
+* {
+	margin: 0;
+    transition: all .2s;
+}
 .nav-item span {
     color: #fff;
 }
@@ -52,7 +56,6 @@ export default {
     margin: 2px 3px;
     padding: 0 8px;
     border-radius: 8px;
-    transition: all .2s;
 }
 .impar:hover {
     background-color: #3dafd2;

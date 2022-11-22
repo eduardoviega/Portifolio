@@ -1,21 +1,19 @@
 <template>
-  <v-app id="home">
+  <v-app>
     <Header style="position: sticky; top: 0; z-index: 1;"></Header>
     <v-content style="background: #232526;">
       <transition name="slide" mode="out-in">
-        <router-view/>
+        <router-view></router-view>
       </transition>
     </v-content>
-    <Footer></Footer>
   </v-app>
 </template>
 
 <script>
 import Header from './components/Header.vue'
-import Footer from './components/Footer.vue'
 
 export default {
-  components: { Header, Footer },
+  components: { Header },
 }
 </script>
 

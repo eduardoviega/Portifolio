@@ -4,7 +4,7 @@
             <img class="perfil" src="./img/perfil.jpg">
             <section>
                 <h1>Eduardo Viega</h1>
-                <h3>Técnico de Informática, Engenheiro de Software & Programador</h3>
+                <h5>Engenheiro de Software, Programador & Técnico de Informática</h5>
                 <div class="icons">
                     <a href="https://www.github.com/eduardoviega/"><img src="./img/github.png"></a>
                     <a href="https://www.linkedin.com/in/eduardoviega/"><img src="./img/linkedin.png"></a>
@@ -13,12 +13,14 @@
                 </div>
             </section>
         </div>
+        <Footer></Footer>
     </v-img>
 </template>
 
 <script>
+import Footer from '../Footer.vue'
 export default {
-
+    components: { Footer }
 }
 </script>
 
@@ -31,11 +33,8 @@ section {
     text-align: center;
     margin: 25px;
 }
-h3 {
-    max-width: 450px;
-}
-h1 {
-    font-size: xxx-large;
+h5 {
+    max-width: 400px;
 }
 .conteudo {
     display: flex;
@@ -46,8 +45,8 @@ h1 {
     height: 100%;
 }
 .perfil{
-    width: 20vw;
-    min-width: 250px;
+    width: 15vw;
+    min-width: 200px;
     border-radius: 50%;
 }
 .icons img {

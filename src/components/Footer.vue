@@ -5,7 +5,7 @@
 		</div>
         
 		<div class="top">
-            <a href="#home"><i class='bx bx-up-arrow-alt' ></i></a>
+            <a href="#"><i class='bx bx-up-arrow-alt' ></i></a>
 		</div>
     </div>    
     
@@ -19,7 +19,10 @@ export default {
 
 <style scoped>
 .footer {
-	padding: 1vh 5vw; 
+    position: absolute;
+    bottom: 0px;
+	width: 100vw;
+	padding: 1vh 5vw;
 	display: flex;
 	align-items: center;
 	justify-content: space-between; 
