@@ -1,6 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-md navbar-dark py-1 px-2"
-        style="background: #232526; background: linear-gradient(to top, #414345, #232526);">
+        style="background: #232526; background: linear-gradient(to top, #414345, #232526)">
         <router-link to="/" class="navbar-brand mb-0 h1 mx-2 nome">Eduardo <span>Viega</span></router-link>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

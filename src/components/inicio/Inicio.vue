@@ -6,10 +6,10 @@
                 <h1>Eduardo Viega</h1>
                 <h5>Engenheiro de Software, Programador & Técnico de Informática</h5>
                 <div class="icons">
-                    <a href="https://www.github.com/eduardoviega/"><img src="./img/github.png"></a>
-                    <a href="https://www.linkedin.com/in/eduardoviega/"><img src="./img/linkedin.png"></a>
-                    <a href="https://www.instagram.com/eduardooviega/"><img src="./img/instagram.png"></a>
-                    <a href="mailto:eduardoviega12@gmail.com"><img src="./img/gmail.png"></a>
+                    <a target="_blank" href="https://www.github.com/eduardoviega/"><img src="./img/github.png"></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/eduardoviega/"><img src="./img/linkedin.png"></a>
+                    <a target="_blank" href="https://www.instagram.com/eduardooviega/"><img src="./img/instagram.png"></a>
+                    <a target="_blank" href="mailto:eduardoviega12@gmail.com"><img src="./img/gmail.png"></a>
                 </div>
             </section>
         </div>
