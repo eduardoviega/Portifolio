@@ -28,7 +28,7 @@ export default {
 	justify-content: space-between; 
 	gap: 2rem; 
 	background: #232526; 
-	background: linear-gradient(to left, #414345, #232526);
+	background: linear-gradient(to bottom, #414345, #232526);
 }
 .text p{
 	margin: 0;
