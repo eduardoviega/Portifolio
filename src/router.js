@@ -11,9 +11,9 @@ Vue.use(Router)
 export default new Router({
     mode: 'history',
     routes: [
-        { path: '/', component: Inicio },
-        { path: '/sobre', component: Sobre },
-        { path: '/experiencias', component: Experiencias },
-        { path: '/projetos', component: Projetos },
+        { path: '/Portifolio/', component: Inicio },
+        { path: '/Portifolio/sobre', component: Sobre },
+        { path: '/Portifolio/experiencias', component: Experiencias },
+        { path: '/Portifolio/projetos', component: Projetos },
     ]
 }) 
