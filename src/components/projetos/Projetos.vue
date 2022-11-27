@@ -1,6 +1,6 @@
 <template>
     <div class="geral">
-        <h1>Meus <span>Projetos Web</span></h1>
+        <h1>Projetos <span>Web</span></h1>
         <section class="projetos-web">
             <div class="linha">
                 <img src="./img/LeigadoShop.png">
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </section>
-        <h1>Meus <span>Projetos Mobile</span></h1>
+        <h1>Projetos <span>Mobile</span></h1>
         <section class="projetos-mobile">
             <div class="linha-mobile">
                 <img src="./img/BMICalculator.png">

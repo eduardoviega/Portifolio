@@ -26,6 +26,9 @@ export default {
 
 <style scoped>
 section {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #0009;
     color: white;
     display: flex;
     flex-direction: column;
@@ -35,6 +38,10 @@ section {
 }
 h5 {
     max-width: 400px;
+}
+h1 {
+    margin-top: 5px;
+    font-weight: bold;
 }
 .conteudo {
     display: flex;
