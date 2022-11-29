@@ -11,7 +11,6 @@
                 <img title="TypeScript 👾" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
                 <img title="Java 👾" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
                 <img title="C 👾" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-                <img title="Python 👾" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
             </div>
             
             <div class="icones">
@@ -135,7 +134,7 @@ export default {
 section {
     max-width: 80vw;
     gap: 40px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 .geral {
     display: flex;
@@ -172,7 +171,10 @@ h4 {
 .icones img {
     padding: 5px;
     height: 8vh;
-    margin: 0 5px;
+    margin: 0 5px 10px;
+}
+.icones img:hover {
+    transform: scale(1.2);
 }
 .cursos {
     display: flex;

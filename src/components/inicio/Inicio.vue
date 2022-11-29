@@ -61,4 +61,8 @@ h1 {
     width: 6vh;
     height: 6vh;
 }
+.icons img:hover {
+    transform: scale(1.15);
+    transition: transform .5s;
+}
 </style>
