@@ -31,8 +31,13 @@
                 <section class="elementos">
                     <div class="elemento">
                         <h5>Leigado - Gestão para Gado Leiteiro e Gado de Corte</h5>
+                        <span>Desenvolvedor FullStack</span>
+                        <p>Dez, 2022 - Atualmente</p>
+                    </div>
+                    <div class="elemento">
+                        <h5>Leigado - Gestão para Gado Leiteiro e Gado de Corte</h5>
                         <span>Analista de Testes de Software</span>
-                        <p>Jan, 2022 - Atualmente</p>
+                        <p>Jan, 2022 - Nov, 2022</p>
                     </div>
                     <div class="elemento">
                         <h5>Tévere Industria e Comércio de Aço LTDA</h5>
