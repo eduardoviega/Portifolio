@@ -2,7 +2,7 @@
     <div class="geral">
         <section class="sobre">
             <h1>Sobre <span>mim</span></h1>
-            <h5>Trabalho como Analista de Testes de Software na Leigado, no momento estou cursando Engenharia de Software na UTFPR-DV e sou Técnico em Informática para a Internet pelo IFSC.</h5>
+            <h5>Trabalho como Desenvolvedor FullStack na Leigado, no momento estou cursando Engenharia de Software na UTFPR-DV e sou Técnico em Informática para a Internet pelo IFSC.</h5>
             <h5>Tenho conhecimento sobre as linguagens HTML, CSS, JavaScript, Dart, Java, C, os frameworks NodeJs, VueJs e Flutter, com prototipação pelo Figma e possuo um nível avançado de Inglês. Em meu tempo livre gosto de aprender coisas novas e trabalhar em meus projetos pessoais.</h5>
         </section>
         <section class="experiencias">
